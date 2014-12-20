@@ -19,6 +19,7 @@ h1 {
 
 .img {
   text-align: center;
+  width: auto;
 }
 
 h1 .comment {
