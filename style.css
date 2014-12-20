@@ -51,14 +51,16 @@ h3 {
     display: inline;
     align: center;
     float: left;
-    padding-left: 260px;
+
+    margin: auto;
+
   }
 
 .img .box-container-blog  {
     align: center;
     float: right;
-    padding-right: 260px;
 
+    margin: auto;
   }
 
 
