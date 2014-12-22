@@ -17,6 +17,10 @@ h1 {
   text-transform: lowercase;
 }
 
+.content {
+  margin: 0 auto 0 auto;
+}
+
 .img {
   text-align: center;
   width: 100%;
@@ -52,16 +56,16 @@ h3 {
     display: inline;
     align: center;
     float: left;
-
-    margin: auto auto auto 12% ;
+    padding: auto auto auto 2%;
+    margin: auto auto auto 8% ;
 
   }
 
 .img .box-container-blog  {
     align: center;
     float: right;
-
-    margin: auto 12% auto auto ;
+    padding: auto 2% auto auto;
+    margin: auto 8% auto auto ;
   }
 
 
